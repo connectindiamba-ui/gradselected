@@ -38,9 +38,9 @@ export function SiteHeader() {
         <div className="mx-auto flex max-w-7xl items-center justify-center gap-4 px-4 py-2.5 text-center text-xs font-semibold tracking-wide sm:justify-between sm:px-6 lg:px-8 lg:text-sm">
           <p>Guidance that moves your future forward.</p>
           <div className="hidden items-center gap-5 text-primary-foreground/75 md:flex">
-            <a href="tel:+919876543210" className="transition-colors duration-300 hover:text-primary-foreground">+91 98765 43210</a>
+            <a href="tel:+917494004323" className="transition-colors duration-300 hover:text-primary-foreground">+91 7494004323</a>
             <span className="h-4 w-px bg-primary-foreground/25" />
-            <a href="mailto:hello@edutech.in" className="transition-colors duration-300 hover:text-primary-foreground">hello@edutech.in</a>
+            <a href="mailto:connectindiamba@gmail.com" className="transition-colors duration-300 hover:text-primary-foreground">connectindiamba@gmail.com</a>
           </div>
         </div>
       </div>
@@ -74,7 +74,7 @@ export function SiteHeader() {
           </nav>
 
           <div className="hidden items-center gap-3 xl:flex">
-            <a href="tel:+919876543210" className="group inline-flex items-center gap-2 rounded-full bg-primary px-4 py-2.5 text-sm font-bold text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/90 hover:shadow-xl">
+            <a href="tel:+917494004323" className="group inline-flex items-center gap-2 rounded-full bg-primary px-4 py-2.5 text-sm font-bold text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/90 hover:shadow-xl">
               <Phone className="size-4 transition-transform duration-300 group-hover:rotate-12" />
               Talk to us
             </a>
@@ -127,7 +127,7 @@ export function SiteHeader() {
               </Link>
             )
           })}
-          <a href="tel:+919876543210" className="mt-2 inline-flex items-center justify-center gap-2 rounded-xl bg-primary px-4 py-3 text-sm font-bold text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:bg-primary/90">
+          <a href="tel:+917494004323" className="mt-2 inline-flex items-center justify-center gap-2 rounded-xl bg-primary px-4 py-3 text-sm font-bold text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:bg-primary/90">
             <Phone className="size-4" />
             Talk to us
           </a>
@@ -161,9 +161,9 @@ export function SiteFooter() {
         <div>
           <p className="mb-4 text-sm font-bold uppercase tracking-[0.18em] text-primary-foreground/45">Get in touch</p>
           <div className="flex flex-col gap-3 text-primary-foreground/70">
-            <a href="tel:+919876543210" className="transition-colors duration-300 hover:text-primary-foreground">+91 98765 43210</a>
-            <a href="mailto:hello@edutech.in" className="transition-colors duration-300 hover:text-primary-foreground">hello@edutech.in</a>
-            <p>Noida - Delhi - India</p>
+            <a href="tel:+917494004323" className="transition-colors duration-300 hover:text-primary-foreground">+91 7494004323</a>
+            <a href="mailto:connectindiamba@gmail.com" className="transition-colors duration-300 hover:text-primary-foreground">connectindiamba@gmail.com</a>
+            <p>Delhi - Pune - Bangalore</p>
           </div>
         </div>
       </div>
@@ -183,11 +183,11 @@ export function DirectContactCard() {
         <h3 className="text-xl font-bold text-ink sm:text-2xl">Your next step can start today.</h3>
       </div>
       <div className="flex flex-col gap-3 min-[420px]:flex-row">
-        <a href="tel:+919876543210" className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-bold text-primary-foreground transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/90">
+        <a href="tel:+917494004323" className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-5 py-3 text-sm font-bold text-primary-foreground transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/90">
           Call now
           <ArrowUpRight className="size-4 transition-transform duration-300 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
         </a>
-        <a href="mailto:hello@edutech.in" className="inline-flex items-center justify-center rounded-full border border-primary/30 bg-background/60 px-5 py-3 text-sm font-bold text-primary transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/10">Email us</a>
+        <a href="mailto:connectindiamba@gmail.com" className="inline-flex items-center justify-center rounded-full border border-primary/30 bg-background/60 px-5 py-3 text-sm font-bold text-primary transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/10">Email us</a>
       </div>
     </div>
   )

@@ -70,7 +70,7 @@ export default function AdmissionsPage() {
               <p className="mt-6 max-w-2xl text-base leading-7 text-primary-foreground/75 sm:text-lg lg:text-xl lg:leading-8">
                 From choosing an exam to choosing a college, MBA Connect India gives you an experienced team for every important decision.
               </p>
-              <a href="tel:+919876543210" className="group mt-8 inline-flex items-center gap-2 rounded-full bg-accent px-5 py-3.5 text-sm font-bold text-ink shadow-xl shadow-accent/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl">
+              <a href="tel:+917494004323" className="group mt-8 inline-flex items-center gap-2 rounded-full bg-accent px-5 py-3.5 text-sm font-bold text-ink shadow-xl shadow-accent/20 transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl">
                 Speak with an advisor
                 <ArrowUpRight className="size-4 transition-transform duration-300 group-hover:-translate-y-1 group-hover:translate-x-1" />
               </a>
@@ -282,7 +282,7 @@ function CollegeCard({ college }: { college: College }) {
           <span />
         )}
         <a
-          href="tel:+919876543210"
+          href="tel:+917494004323"
           className="inline-flex items-center gap-1 font-bold text-primary transition hover:underline"
           title={college.counsellorSupport}
         >

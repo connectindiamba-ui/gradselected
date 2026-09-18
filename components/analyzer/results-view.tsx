@@ -209,7 +209,7 @@ export function ResultsView({ result, onReset }: ResultsViewProps) {
 
           <div className="flex flex-wrap gap-3">
             <a
-              href="tel:+919876543210"
+              href="tel:+917494004323"
               className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-6 py-3.5 text-sm font-bold text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:-translate-y-0.5 hover:bg-primary/90"
             >
               <Phone className="size-4" />

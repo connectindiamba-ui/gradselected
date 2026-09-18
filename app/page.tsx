@@ -72,7 +72,7 @@ export default function Page() {
                 MBA Connect India helps students make confident academic decisions, prepare with purpose, and reach the institutions where they can thrive.
               </p>
               <div className="mt-8 flex flex-col gap-3 min-[440px]:flex-row">
-                <a href="tel:+919876543210" className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-5 py-3.5 text-sm font-bold text-primary-foreground shadow-xl shadow-primary/20 transition-all duration-300 hover:-translate-y-1 hover:bg-primary/90 hover:shadow-2xl sm:px-6">
+                <a href="tel:+917494004323" className="group inline-flex items-center justify-center gap-2 rounded-full bg-primary px-5 py-3.5 text-sm font-bold text-primary-foreground shadow-xl shadow-primary/20 transition-all duration-300 hover:-translate-y-1 hover:bg-primary/90 hover:shadow-2xl sm:px-6">
                   Talk to an expert
                   <ArrowUpRight className="size-4 transition-transform duration-300 group-hover:-translate-y-1 group-hover:translate-x-1" />
                 </a>
