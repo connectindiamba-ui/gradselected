@@ -44,11 +44,11 @@ The website is designed to provide students with an accessible, responsive, and 
 
 ### Repository
 
-https://github.com/Aman35256/gradselected
+https://github.com/conenctindiamba-ui/gradselected
 
 ### Production Website
 
-https://gradselected.vercel.app/
+mbaconnectindia.com
 
 ---
 
